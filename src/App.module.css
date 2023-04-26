@@ -1,0 +1,14 @@
+.intro
+{
+  text-align: center;
+  font-size: 50px;
+  color: brown;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-color: aquamarine;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.h5
+{
+  border: 5px;
+}
